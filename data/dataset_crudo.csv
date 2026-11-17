@@ -1,0 +1,521 @@
+ID Cliente,Edad ,Ciudad,Gasto Mensual,Plan
+1,76.0,CABA,8958.57,Basico
+2,,CABA,16189.46,Full
+3,60.0,La Plata,14562.04,Full
+4,73.0,La Plata,13745.48,Full
+5,,La Plata,14707.83,Premium
+6,66.0,CABA,12840.89,Basico
+7,69.0,La Plata,12550.11,Premium
+8,31.0,Rosario,8268.97,Full
+9,21.0,CABA,14881.49,Basico
+10,36.0,La Plata,22382.13,Basico
+11,35.0,La Plata,22921.98,Premium
+12,72.0,Rosario,20287.27,Premium
+13,74.0,La Plata,17823.21,Premium
+14,18.0,La Plata,12294.08,Premium
+15,48.0,La Plata,20771.0,Premium
+16,68.0,La Plata,14775.49,Premium
+17,26.0,Rosario,14724.5,Premium
+18,67.0,La Plata,13835.09,Full
+19,25.0,La Plata,15367.85,Premium
+20,47.0,Rosario,13259.14,Full
+21,68.0,CABA,14664.87,Premium
+22,36.0,La Plata,10661.6,Premium
+23,39.0,CABA,13505.35,Premium
+24,35.0,Rosario,24122.23,Full
+25,62.0,CABA,14721.62,Premium
+26,33.0,Rosario,14045.36,Premium
+27,79.0,La Plata,17129.5,Premium
+28,45.0,Rosario,17832.49,Premium
+29,47.0,Rosario,10544.92,Full
+30,49.0,Rosario,14171.36,Premium
+31,54.0,CABA,18673.1,Basico
+32,52.0,CABA,,Premium
+33,49.0,La Plata,15487.82,Full
+34,79.0,CABA,21216.07,Basico
+35,68.0,Rosario,12288.91,Basico
+36,67.0,La Plata,15330.98,Basico
+37,61.0,La Plata,12919.77,Full
+38,56.0,CABA,20961.23,Basico
+39,39.0,Rosario,7192.56,Premium
+40,79.0,Rosario,,Premium
+41,46.0,La Plata,12883.37,Premium
+42,31.0,La Plata,17654.16,Basico
+43,70.0,Rosario,17425.1,Full
+44,27.0,CABA,20580.78,Full
+45,71.0,Rosario,8703.87,Premium
+46,55.0,,18001.9,Full
+47,25.0,Rosario,13826.88,Basico
+48,20.0,Rosario,12337.5,Premium
+49,45.0,Rosario,17158.27,Full
+50,20.0,CABA,11319.44,Premium
+51,26.0,CABA,6692.35,Basico
+52,49.0,La Plata,13519.13,Full
+53,78.0,Rosario,9008.92,Full
+54,46.0,Rosario,12404.34,Premium
+55,68.0,Rosario,16486.22,Basico
+56,74.0,CABA,16248.0,Premium
+57,69.0,CABA,21347.6,Premium
+58,57.0,CABA,14201.38,Premium
+59,45.0,La Plata,8866.67,Full
+60,49.0,Rosario,11975.61,Premium
+61,34.0,CABA,11322.46,Full
+62,48.0,CABA,10128.7,Full
+63,41.0,CABA,16741.47,Full
+64,33.0,Rosario,12419.07,Basico
+65,79.0,CABA,7090.51,Basico
+66,18.0,Rosario,17787.69,Full
+67,24.0,Rosario,14554.29,Full
+68,,CABA,16427.35,Premium
+69,78.0,La Plata,15422.89,Basico
+70,60.0,Rosario,17526.62,Full
+71,72.0,,15152.07,Basico
+72,30.0,La Plata,19944.81,Premium
+73,62.0,Rosario,16699.93,Premium
+74,40.0,Rosario,16568.27,Full
+75,48.0,Rosario,16639.47,Full
+76,18.0,La Plata,9173.45,Basico
+77,56.0,La Plata,14341.46,Full
+78,69.0,,13962.73,Full
+79,59.0,La Plata,15830.19,Basico
+80,27.0,La Plata,9565.22,Basico
+81,51.0,CABA,21536.46,Premium
+82,34.0,CABA,15417.55,Premium
+83,77.0,Rosario,10154.73,Basico
+84,72.0,La Plata,8164.45,Full
+85,29.0,Rosario,13874.85,Premium
+86,49.0,La Plata,14641.3,Basico
+87,76.0,Rosario,12126.83,Full
+88,70.0,La Plata,15368.46,Basico
+89,61.0,CABA,12435.3,Full
+90,57.0,La Plata,17206.63,Full
+91,20.0,La Plata,12101.83,Basico
+92,63.0,La Plata,14846.0,Full
+93,47.0,Rosario,18915.36,Basico
+94,,CABA,25286.68,Premium
+95,33.0,La Plata,,Basico
+96,51.0,,13141.97,Basico
+97,63.0,Rosario,11640.66,Basico
+98,49.0,Rosario,18137.31,Premium
+99,56.0,La Plata,10407.6,Premium
+100,72.0,CABA,,Basico
+101,60.0,La Plata,14881.59,Basico
+102,40.0,La Plata,11085.29,Premium
+103,57.0,La Plata,11170.7,Full
+104,55.0,CABA,13097.51,Premium
+105,24.0,La Plata,6598.24,Basico
+106,21.0,La Plata,9218.09,Premium
+107,58.0,Rosario,13347.86,Basico
+108,42.0,CABA,15592.92,Premium
+109,55.0,La Plata,14256.96,Premium
+110,38.0,CABA,7904.13,Basico
+111,31.0,La Plata,13144.85,Full
+112,27.0,CABA,18193.75,Full
+113,41.0,La Plata,17223.46,Basico
+114,68.0,CABA,14685.01,Premium
+115,42.0,CABA,11450.52,Basico
+116,41.0,CABA,17524.87,Full
+117,53.0,CABA,,Premium
+118,78.0,Rosario,10323.01,Premium
+119,42.0,Rosario,11791.26,Basico
+120,54.0,La Plata,20793.38,Basico
+121,45.0,La Plata,15880.72,Basico
+122,55.0,La Plata,19636.99,Premium
+123,45.0,,13082.65,Full
+124,57.0,Rosario,18752.6,Premium
+125,51.0,La Plata,12593.98,Basico
+126,59.0,,14370.29,Full
+127,77.0,La Plata,24945.4,Premium
+128,27.0,CABA,18068.59,Full
+129,52.0,CABA,12995.32,Basico
+130,45.0,Rosario,14660.72,Basico
+131,40.0,La Plata,16304.89,Basico
+132,32.0,La Plata,,Full
+133,21.0,CABA,13043.47,Premium
+134,42.0,La Plata,8034.72,Basico
+135,,La Plata,13881.43,Premium
+136,23.0,CABA,15061.54,Full
+137,43.0,Rosario,15438.15,Premium
+138,78.0,Rosario,20266.76,Premium
+139,76.0,Rosario,16266.75,Premium
+140,31.0,Rosario,18251.67,Basico
+141,18.0,Rosario,10595.55,Premium
+142,59.0,Rosario,18471.61,Premium
+143,18.0,CABA,23384.88,Basico
+144,36.0,Rosario,18091.64,Premium
+145,48.0,La Plata,16014.22,Premium
+146,72.0,La Plata,15615.95,Full
+147,23.0,Rosario,22148.57,Basico
+148,59.0,La Plata,11291.27,Premium
+149,51.0,Rosario,14555.59,Basico
+150,26.0,CABA,16840.83,Full
+151,70.0,La Plata,17976.0,Full
+152,70.0,Rosario,13250.69,Premium
+153,47.0,La Plata,16229.29,Basico
+154,76.0,CABA,13888.31,Full
+155,55.0,La Plata,15481.88,Basico
+156,74.0,,14471.63,Premium
+157,77.0,CABA,10433.63,Premium
+158,53.0,Rosario,14915.55,Premium
+159,35.0,La Plata,18508.61,Basico
+160,27.0,Rosario,11131.93,Premium
+161,52.0,Rosario,14035.63,Premium
+162,29.0,CABA,17659.12,Premium
+163,64.0,,10720.54,Premium
+164,75.0,CABA,15730.55,Basico
+165,33.0,CABA,10759.48,Basico
+166,,CABA,19538.52,Premium
+167,21.0,Rosario,24251.29,Full
+168,,La Plata,23089.02,Basico
+169,41.0,CABA,14123.28,Basico
+170,72.0,La Plata,17960.8,Premium
+171,,CABA,15483.99,Basico
+172,57.0,Rosario,15408.42,Basico
+173,54.0,La Plata,21191.03,Full
+174,53.0,Rosario,9723.28,Premium
+175,,La Plata,19221.18,Full
+176,41.0,,14804.1,Full
+177,78.0,CABA,20634.16,Premium
+178,43.0,CABA,15748.93,Premium
+179,31.0,Rosario,12309.31,Basico
+180,32.0,CABA,16108.56,Basico
+181,62.0,Rosario,17943.87,Basico
+182,20.0,La Plata,15143.05,Premium
+183,78.0,CABA,16952.15,Premium
+184,72.0,CABA,12913.3,Basico
+185,53.0,Rosario,6464.46,Basico
+186,46.0,La Plata,18600.09,Full
+187,65.0,CABA,17796.64,Basico
+188,51.0,CABA,15592.71,Basico
+189,47.0,CABA,15273.64,Basico
+190,37.0,La Plata,19145.18,Premium
+191,45.0,CABA,13171.57,Premium
+192,64.0,La Plata,12173.86,Premium
+193,21.0,La Plata,14245.8,Basico
+194,19.0,Rosario,19756.39,Basico
+195,62.0,La Plata,9451.55,Basico
+196,,CABA,19767.32,Basico
+197,67.0,Rosario,12442.99,Full
+198,19.0,Rosario,10597.03,Basico
+199,74.0,CABA,20040.25,Premium
+200,25.0,Rosario,14612.44,Full
+201,43.0,CABA,9799.06,Premium
+202,77.0,CABA,13565.07,Full
+203,24.0,Rosario,18724.21,Premium
+204,58.0,CABA,19768.3,Premium
+205,63.0,CABA,13291.61,Full
+206,44.0,CABA,16625.28,Full
+207,22.0,CABA,17856.34,Premium
+208,50.0,CABA,,Basico
+209,44.0,Rosario,16420.14,Basico
+210,72.0,CABA,14872.49,Premium
+211,60.0,CABA,12855.9,Premium
+212,39.0,Rosario,13031.41,Premium
+213,21.0,CABA,15268.14,Basico
+214,54.0,La Plata,15119.41,Basico
+215,35.0,Rosario,12738.04,Premium
+216,60.0,CABA,13296.22,Full
+217,71.0,Rosario,19453.35,Premium
+218,40.0,Rosario,15855.31,Full
+219,74.0,CABA,18540.38,Full
+220,50.0,Rosario,19807.29,Basico
+221,50.0,La Plata,17355.37,Full
+222,65.0,CABA,24083.55,Basico
+223,66.0,Rosario,11698.78,Basico
+224,74.0,CABA,18233.64,Full
+225,79.0,CABA,13727.42,Basico
+226,27.0,CABA,22423.13,Full
+227,43.0,CABA,21801.76,Basico
+228,75.0,CABA,7183.16,Premium
+229,37.0,CABA,11124.54,Basico
+230,18.0,La Plata,17657.25,Full
+231,53.0,La Plata,18159.47,Full
+232,64.0,La Plata,17946.26,Full
+233,64.0,CABA,14716.54,Full
+234,68.0,,16820.48,Full
+235,57.0,CABA,17612.09,Full
+236,26.0,CABA,14688.51,Premium
+237,70.0,CABA,19109.21,Basico
+238,43.0,CABA,5962.01,Basico
+239,70.0,Rosario,17535.17,Premium
+240,68.0,Rosario,10863.79,Premium
+241,78.0,CABA,18834.71,Full
+242,18.0,La Plata,14085.26,Premium
+243,71.0,Rosario,11444.85,Basico
+244,56.0,CABA,16495.61,Full
+245,48.0,CABA,11354.67,Full
+246,67.0,La Plata,11348.93,Basico
+247,77.0,Rosario,8730.82,Basico
+248,49.0,La Plata,,Premium
+249,23.0,CABA,16987.29,Full
+250,63.0,La Plata,19092.1,Basico
+251,32.0,CABA,14433.09,Basico
+252,32.0,Rosario,19191.42,Full
+253,29.0,Rosario,15071.84,Premium
+254,30.0,CABA,14626.85,Premium
+255,74.0,Rosario,17294.25,Full
+256,40.0,CABA,19233.57,Full
+257,24.0,CABA,13634.26,Basico
+258,29.0,CABA,14024.95,Basico
+259,42.0,La Plata,14356.67,Basico
+260,39.0,La Plata,15331.08,Premium
+261,37.0,Rosario,,Premium
+262,76.0,Rosario,19112.02,Full
+263,71.0,La Plata,13398.36,Basico
+264,53.0,Rosario,16849.77,Premium
+265,79.0,Rosario,11698.11,Premium
+266,39.0,CABA,16435.22,Basico
+267,26.0,La Plata,16566.37,Basico
+268,34.0,CABA,13317.27,Premium
+269,23.0,La Plata,23083.56,Full
+270,77.0,CABA,16484.16,Full
+271,31.0,CABA,22107.72,Full
+272,45.0,CABA,18836.56,Basico
+273,30.0,La Plata,12350.9,Premium
+274,78.0,CABA,13471.25,Basico
+275,27.0,CABA,16744.41,Basico
+276,49.0,CABA,15244.69,Premium
+277,76.0,La Plata,15197.84,Full
+278,50.0,,13855.18,Basico
+279,73.0,La Plata,7766.09,Basico
+280,73.0,La Plata,14098.27,Full
+281,65.0,La Plata,6127.51,Premium
+282,64.0,La Plata,16487.28,Full
+283,53.0,CABA,12095.77,Basico
+284,,Rosario,12138.33,Full
+285,69.0,Rosario,14122.78,Full
+286,44.0,La Plata,16090.69,Full
+287,76.0,La Plata,9271.98,Basico
+288,72.0,La Plata,8005.6,Premium
+289,41.0,Rosario,10735.74,Premium
+290,43.0,CABA,6833.09,Basico
+291,62.0,Rosario,11132.6,Full
+292,75.0,CABA,21363.53,Full
+293,23.0,CABA,10773.66,Full
+294,22.0,Rosario,17605.62,Full
+295,33.0,Rosario,9513.46,Basico
+296,44.0,La Plata,16196.48,Full
+297,28.0,La Plata,13721.06,Premium
+298,50.0,CABA,14760.75,Full
+299,51.0,CABA,17275.11,Premium
+300,76.0,La Plata,22024.96,Full
+301,64.0,CABA,15778.83,Premium
+302,33.0,CABA,15497.44,Basico
+303,66.0,La Plata,11106.53,Premium
+304,,La Plata,17333.36,Full
+305,60.0,La Plata,14015.71,Basico
+306,,La Plata,18328.03,Premium
+307,37.0,,14825.17,Premium
+308,62.0,La Plata,21963.42,Premium
+309,26.0,La Plata,7068.33,Basico
+310,57.0,La Plata,13813.6,Basico
+311,,CABA,18525.93,Full
+312,78.0,La Plata,13597.23,Basico
+313,36.0,CABA,11831.31,Premium
+314,38.0,La Plata,13936.48,Premium
+315,56.0,La Plata,9480.29,Full
+316,42.0,Rosario,,Premium
+317,63.0,La Plata,24761.85,Full
+318,30.0,CABA,19580.13,Premium
+319,28.0,CABA,10563.96,Premium
+320,,CABA,11506.64,Full
+321,47.0,Rosario,13381.09,Premium
+322,31.0,La Plata,19017.66,Full
+323,36.0,Rosario,,Premium
+324,74.0,Rosario,12239.07,Full
+325,68.0,CABA,18539.0,Premium
+326,70.0,La Plata,18458.61,Full
+327,54.0,CABA,13504.74,Premium
+328,24.0,CABA,10528.95,Basico
+329,64.0,Rosario,8801.02,Basico
+330,55.0,La Plata,12204.04,Premium
+331,74.0,,6077.88,Premium
+332,47.0,Rosario,17999.28,Basico
+333,28.0,La Plata,12479.88,Basico
+334,54.0,La Plata,16925.17,Premium
+335,46.0,La Plata,22473.3,Basico
+336,58.0,Rosario,19691.98,Full
+337,41.0,Rosario,10395.46,Full
+338,37.0,,18477.0,Basico
+339,25.0,CABA,,Full
+340,77.0,CABA,12014.57,Full
+341,64.0,CABA,11186.81,Full
+342,46.0,CABA,14561.23,Full
+343,32.0,,8594.31,Full
+344,56.0,CABA,20882.94,Premium
+345,43.0,La Plata,5378.54,Full
+346,57.0,CABA,10572.77,Full
+347,23.0,La Plata,13921.74,Premium
+348,29.0,Rosario,,Premium
+349,63.0,CABA,,Premium
+350,21.0,CABA,16085.79,Premium
+351,60.0,Rosario,14145.55,Premium
+352,43.0,Rosario,19547.55,Premium
+353,18.0,La Plata,6442.5,Full
+354,65.0,La Plata,14999.34,Basico
+355,61.0,La Plata,12141.66,Premium
+356,68.0,La Plata,15530.05,Basico
+357,73.0,La Plata,15883.04,Basico
+358,63.0,CABA,11352.68,Basico
+359,70.0,Rosario,12436.2,Basico
+360,25.0,La Plata,18170.35,Full
+361,74.0,Rosario,16396.23,Premium
+362,74.0,CABA,12279.01,Premium
+363,61.0,Rosario,23159.56,Premium
+364,67.0,CABA,24236.71,Basico
+365,63.0,La Plata,9150.15,Full
+366,72.0,Rosario,16207.18,Full
+367,73.0,La Plata,25035.98,Premium
+368,50.0,La Plata,18135.59,Basico
+369,68.0,Rosario,15884.24,Basico
+370,74.0,CABA,14167.77,Full
+371,36.0,La Plata,12835.22,Full
+372,20.0,La Plata,14149.94,Full
+373,28.0,Rosario,12797.08,Premium
+374,19.0,La Plata,17979.63,Premium
+375,44.0,Rosario,13407.39,Full
+376,19.0,La Plata,13235.39,Premium
+377,34.0,Rosario,10191.36,Full
+378,33.0,La Plata,14801.64,Basico
+379,61.0,CABA,11423.51,Premium
+380,33.0,La Plata,14277.0,Basico
+381,76.0,CABA,19167.26,Full
+382,29.0,Rosario,16463.7,Basico
+383,78.0,La Plata,17018.9,Premium
+384,53.0,La Plata,16424.36,Premium
+385,33.0,Rosario,15236.7,Full
+386,20.0,CABA,14490.69,Premium
+387,36.0,La Plata,13768.78,Basico
+388,54.0,CABA,18036.47,Full
+389,24.0,CABA,10663.04,Premium
+390,28.0,Rosario,20362.89,Premium
+391,25.0,La Plata,15136.31,Premium
+392,60.0,Rosario,12005.2,Full
+393,23.0,CABA,13043.42,Basico
+394,19.0,Rosario,12292.04,Full
+395,46.0,CABA,15640.83,Premium
+396,37.0,Rosario,12128.63,Basico
+397,53.0,CABA,19568.52,Full
+398,76.0,CABA,11873.44,Premium
+399,71.0,La Plata,5909.91,Full
+400,51.0,,12076.01,Basico
+401,57.0,Rosario,6965.92,Full
+402,68.0,La Plata,14840.52,Basico
+403,45.0,Rosario,19236.63,Full
+404,58.0,La Plata,17591.04,Full
+405,31.0,CABA,9649.64,Full
+406,55.0,Rosario,11950.98,Premium
+407,32.0,CABA,22114.53,Full
+408,29.0,La Plata,16274.05,Basico
+409,65.0,La Plata,15016.47,Full
+410,53.0,La Plata,19224.25,Basico
+411,41.0,La Plata,24810.96,Full
+412,20.0,La Plata,20186.29,Premium
+413,32.0,La Plata,15557.66,Basico
+414,67.0,La Plata,16418.75,Premium
+415,47.0,CABA,17468.32,Premium
+416,,La Plata,12549.21,Basico
+417,73.0,Rosario,10765.12,Basico
+418,70.0,Rosario,15209.8,Full
+419,18.0,La Plata,11211.16,Full
+420,,CABA,14754.15,Basico
+421,53.0,CABA,15384.49,Premium
+422,,La Plata,24364.15,Full
+423,70.0,La Plata,11595.8,Full
+424,37.0,Rosario,14512.84,Premium
+425,27.0,CABA,14342.79,Full
+426,24.0,Rosario,16749.24,Premium
+427,36.0,La Plata,19186.9,Basico
+428,56.0,CABA,13038.07,Premium
+429,25.0,Rosario,11714.59,Basico
+430,67.0,Rosario,8437.16,Full
+431,36.0,La Plata,11295.18,Basico
+432,37.0,CABA,17145.76,Full
+433,,CABA,15182.59,Premium
+434,,Rosario,10938.26,Full
+435,45.0,La Plata,13508.93,Premium
+436,67.0,La Plata,15125.89,Basico
+437,36.0,Rosario,17014.72,Premium
+438,26.0,CABA,12626.42,Premium
+439,69.0,CABA,13998.24,Premium
+440,65.0,,7726.26,Basico
+441,64.0,La Plata,10394.46,Basico
+442,72.0,La Plata,21470.86,Basico
+443,48.0,CABA,6247.44,Premium
+444,30.0,La Plata,13648.79,Basico
+445,54.0,La Plata,15876.79,Premium
+446,53.0,CABA,13502.6,Basico
+447,41.0,,11767.37,Premium
+448,57.0,CABA,14755.69,Full
+449,34.0,CABA,14980.14,Premium
+450,55.0,La Plata,14671.53,Full
+451,67.0,CABA,7489.15,Full
+452,23.0,Rosario,14410.39,Full
+453,46.0,CABA,11579.55,Basico
+454,58.0,Rosario,12809.06,Full
+455,21.0,CABA,15907.9,Basico
+456,57.0,La Plata,17562.92,Basico
+457,74.0,CABA,18587.11,Full
+458,69.0,CABA,13014.35,Premium
+459,60.0,La Plata,18696.01,Premium
+460,67.0,CABA,19694.91,Premium
+461,40.0,Rosario,19546.55,Basico
+462,38.0,La Plata,20559.07,Basico
+463,23.0,CABA,14417.27,Basico
+464,62.0,Rosario,14303.47,Premium
+465,37.0,CABA,18300.2,Basico
+466,71.0,La Plata,9533.9,Full
+467,46.0,CABA,15837.72,Premium
+468,73.0,CABA,12877.76,Basico
+469,26.0,CABA,13524.84,Full
+470,28.0,CABA,8033.94,Basico
+471,39.0,La Plata,11437.82,Premium
+472,,Rosario,14918.02,Premium
+473,48.0,Rosario,18553.81,Premium
+474,58.0,La Plata,18960.11,Full
+475,,La Plata,14678.69,Premium
+476,31.0,La Plata,,Premium
+477,28.0,Rosario,11677.28,Basico
+478,52.0,Rosario,16609.43,Full
+479,57.0,La Plata,14009.69,Full
+480,76.0,La Plata,17423.54,Basico
+481,,La Plata,22006.75,Basico
+482,41.0,CABA,14870.5,Basico
+483,28.0,Rosario,9010.58,Basico
+484,33.0,La Plata,11556.6,Basico
+485,72.0,La Plata,9167.41,Full
+486,46.0,CABA,10211.56,Basico
+487,79.0,CABA,20221.08,Full
+488,58.0,Rosario,15906.64,Full
+489,54.0,CABA,8919.3,Full
+490,24.0,La Plata,17614.53,Full
+491,54.0,CABA,20041.5,Basico
+492,41.0,,13560.5,Full
+493,70.0,Rosario,12296.04,Full
+494,26.0,La Plata,13650.49,Basico
+495,,Rosario,16138.43,Basico
+496,,La Plata,17559.88,Basico
+497,60.0,Rosario,19728.87,Basico
+498,69.0,La Plata,19849.91,Full
+499,50.0,Rosario,19741.62,Basico
+500,41.0,La Plata,20447.69,Full
+305,60.0,La Plata,14015.71,Basico
+341,64.0,CABA,11186.81,Full
+48,20.0,Rosario,12337.5,Premium
+68,,CABA,16427.35,Premium
+480,76.0,La Plata,17423.54,Basico
+486,46.0,CABA,10211.56,Basico
+311,,CABA,18525.93,Full
+32,52.0,CABA,,Premium
+250,63.0,La Plata,19092.1,Basico
+91,20.0,La Plata,12101.83,Basico
+323,36.0,Rosario,,Premium
+169,41.0,CABA,14123.28,Basico
+120,54.0,La Plata,20793.38,Basico
+67,24.0,Rosario,14554.29,Full
+306,,La Plata,18328.03,Premium
+190,37.0,La Plata,19145.18,Premium
+435,45.0,La Plata,13508.93,Premium
+290,43.0,CABA,6833.09,Basico
+143,18.0,CABA,23384.88,Basico
+147,23.0,Rosario,22148.57,Basico
